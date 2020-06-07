@@ -1688,12 +1688,12 @@ button:focus {
 }
 
 ::-moz-selection { /* Code for Firefox */
-	color: black;
-	background: rgba(255,99, 71);
+	color: #ff6d6d;
+	background: black;
   }
   ::selection {
-	color: black;
-	background: rgba(255,99, 71);
+	color: #ff6d6d;
+	background: black;
   }
 
 #read.move {
