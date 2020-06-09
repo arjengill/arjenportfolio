@@ -1690,11 +1690,11 @@ button:focus {
 }
 
 ::-moz-selection { /* Code for Firefox */
-	color: #ff6d6d;
+	color: #ff6347;
 	background: black;
   }
   ::selection {
-	color: #ff6d6d;
+	color: #ff6347;
 	background: black;
   }
 
