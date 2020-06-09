@@ -1616,13 +1616,18 @@ input, select, textarea {
 }
 
 
-.creds-list-wbys, .creds-list-punchline {
+.creds-list-wbys {
 
 	position: relative;
 	right: 10%;
 	list-style-type: none;
 }
 
+.creds-list-punchline {
+	position: relative;
+	right: 10%;
+	list-style-type: none;
+}
 
 
 .hos-dig-ul {
