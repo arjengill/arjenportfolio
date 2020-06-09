@@ -1616,12 +1616,14 @@ input, select, textarea {
 }
 
 
-.creds-list-wbys {
+.creds-list-wbys, .creds-list-punchline {
 
 	position: relative;
 	right: 10%;
 	list-style-type: none;
 }
+
+
 
 .hos-dig-ul {
 	position: relative;
