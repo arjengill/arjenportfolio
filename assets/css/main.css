@@ -1037,7 +1037,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: rgba(255, 255, 255, 0.075);	
+			background-color: black;	
 		}
 
 		input[type="submit"]:active,
@@ -1045,7 +1045,7 @@ input, select, textarea {
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: rgba(255, 255, 255, 0.175);
+			background-color: black;
 		}
 
 		input[type="submit"].icon:before,
